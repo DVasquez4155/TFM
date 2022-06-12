@@ -2,44 +2,54 @@
     "Bread & Chowder": [
         {
             "Name": "Rolls",
-            "Description": "Set of 4 Boudin Bakery Sourdough Rolls"
+            "Description": "Set of 4 Boudin Bakery Sourdough Rolls",
+            "Gluten Free": "No - Bread",
+            "Vegan": "?"
         },
         {
             "Name": "Cheezy Bread",
-            "Description": "Cheezy Sauce on Sourdough Bread"
+            "Description": "Cheezy Sauce on Sourdough Bread",
+            "Gluten Free": "No",
+            "Vegan": "No - Cheese"
         },
         {
             "Name": "Cheezy Bread",
             "Description": "Cheezy Sauce on Sourdough Bread with an addition of crab meat",
             "/Crustacean/Snow Crab": "2oz",
-            "Allergy": "Shellfish"
+            "Gluten Free": "No - Bread",
+            "Vegan": "No - Cheese"
         },
         {
             "Name": "New England Clam Chowder (White)",
-            "Description": "Clam Chowder which is Cream based"
+            "Description": "Clam Chowder which is Cream based",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Clams",
+            "Allergy": "Shellfish"
         },
         {
             "Name": "Manhattan Clam Chowder (Red)",
-            "Description": "Clam Chowder which is Tomato based"
+            "Description": "Clam Chowder which is Tomato based",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Clams",
+            "Allergy": "Shellfish"
         }
     ],
     "Oysters": [
         {
             "Name": "Oyster Rockefeller",
-            "Description": "Pacific Oysters topped with creamy spinach and romano cheese"
+            "Description": "Pacific Oysters topped with creamy spinach and romano cheese",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
         },
         {
             "Name": "Shucked Oysters (6)",
             "/Oysters/Kumiai Oysters": "Pacific Oysters",
             "/Oysters/Chesapeake Oysters": "Lower James River, VA",
             "Oyster Combo": "3 of each oysters",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
             "Allergy": "Shellfish"
-        }
-    ],
-    "This is a test": [
-        {
-            "Name": "Testing",
-            "Test": "This page has not yet been added"
         }
     ]
     
