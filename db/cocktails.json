@@ -2,10 +2,10 @@
     "Cocktails": [
         {
             "Name": "Market Margarita",
-            "Cazadores Reposado Tequila": "1.5oz",
-            "Cointreau": "0.5oz",
+            "/Tequila/Cazadores Reposado Tequila": "1.5oz",
+            "/Liqueur/Cointreau": "0.5oz",
             "Lime Juice": "1.5oz",
-            "Agave": "1.0oz",
+            "/Other/Agave": "1.0oz",
             "Garnish": "Lime",
             "Rim": "Salt"
         },
