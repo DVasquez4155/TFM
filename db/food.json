@@ -43,7 +43,7 @@
             "Allergy": "Shellfish"
         },
         {
-            "Name": "Shucked Oysters (6)*",
+            "Name": "Shucked Oysters",
             "/Oysters/Kumiai Oysters": "Pacific Oysters",
             "/Oysters/Chesapeake Oysters": "Lower James River, VA",
             "Oyster Combo": "3 of each oysters",
@@ -54,7 +54,7 @@
     ],
     "Appetizers": [
         {
-            "Name": "Ahi Poke*",
+            "Name": "Ahi Poke",
             "Ingredients": "Ginger, soy, green onion, sesame, chili, wonton chips",
             "/FinFish/Yellowfin Tuna": "3.5 oz Cubed and Raw",
             "Gluten Free": "No - Wonton Chips",
@@ -70,7 +70,7 @@
             "Allergy": "Shellfish"
         },
         {
-            "Name": "Crab Cakes (2)",
+            "Name": "Crab Cakes",
             "/Crustacean/Snow Crab": "Mixed in",
             "Ingredients": "Tartar sauce, spring mix",
             "Gluten Free": "No - Panko Crumbs",
@@ -78,14 +78,14 @@
             "Allergy": "Shellfish"
         },
         {
-            "Name": "Prawn Cocktail (5)",
+            "Name": "Prawn Cocktail",
             "/Crustacean/13x15 Prawns": "Poached with white wine, lemon & herbs",
             "Gluten Free": "Yes",
             "Vegan": "No - Shellfish",
             "Allergy": "Shellfish"
         },
         {
-            "Name": "Rockfish Ceviche*",
+            "Name": "Rockfish Ceviche",
             "Ingredients": "Lime, coconut milk, red onion, tomato, serrano, avocado, tortilla chips",
             "/FinFish/Rockfish": "Cured with lime juice",
             "Gluten Free": "No - Tortilla Chips",
@@ -217,7 +217,7 @@
     ],
     "Fish & Chips": [
         {
-            "Name": "Easter Cod",
+            "Name": "Eastern Cod",
             "Description": "Beer battered with our house blonde from Stone Brewing",
             "/FinFish/Eastern Cod": "(2) 3oz",
             "/Crustacean/13x15 Prawns": "6 each",
@@ -356,7 +356,7 @@
     ],
     "Specialties": [
         {
-            "Name": "Ahi Poke Bowl*",
+            "Name": "Ahi Poke Bowl",
             "Description": "Marinated yellowfin tuna, edamame, sushi rice",
             "/FinFish/Yellowfin Tuna": "3.5 oz Cubed and Raw",
             "Gluten Free": "Yes",
@@ -431,7 +431,7 @@
             "Allergy": "Fish, Mushroom"
         },
         {
-            "Name": "Panjo Crusted Calamari Steak",
+            "Name": "Panko Crusted Calamari Steak",
             "/Calamari/Calamari Steak": "~7oz",
             "Gluten Free": "No - Panko",
             "Vegan": "No - Calamari",
