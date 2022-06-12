@@ -1,12 +1,24 @@
 {
-    "Testing": [{
-            "Name": "Testing",
-            "Test": "This page has not yet been added"
+    "Tequila": [
+        {
+            "Name": "Cazadores Reposado Tequila",
+            "ABV": "40.0",
+            "Flavor Profile": "Sweet and Spicy",
+            "Description": "This reposado from Cazadores (meaning “hunters”) is a 100% agave sourced from the Highlands of Jalisco. It is aged for just over two months in small, virgin oak barrels."
         }
     ],
-    "This is a test": [{
-            "Name": "Testing",
-            "Test": "This page has not yet been added"
+    "Liqueur": [
+        {
+            "Name": "Cointrau",
+            "ABV": "40.0",
+            "Flavor Profile": "Fruity and Sweet",
+            "Description": "Both Triple Sec and curacao are orange flavored liqueurs."
+        }
+    ],
+    "Other": [
+        {
+            "Name": "Agave",
+            "Description": "Agave syrup comes from the agave plant, a succulent that is native to dry regions in Mexico"
         }
     ]
 }
