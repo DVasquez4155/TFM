@@ -2,7 +2,6 @@
     "Crustacean": [
         {
             "Name": "13x15 Prawns",
-            "Species": "Shrimp",
             "Origin": "Pacific",
             "Similar to": "Unique",
             "Color": "Pink",
@@ -16,7 +15,6 @@
         },
         {
             "Name": "31x40 Tiger Shrimp",
-            "Species": "Shrimp",
             "Origin": "Thailand",
             "Similar to": "Unique",
             "Color": "White",
@@ -30,7 +28,6 @@
         },
         {
             "Name": "Bay Shrimp",
-            "Species": "Shrimp",
             "Origin": "Northeast Atlantic Ocean",
             "Similar to": "Unique",
             "Color": "Pink",
@@ -43,7 +40,6 @@
         },
         {
             "Name": "Dungeness Crab",
-            "Species": "Crab",
             "Origin": "Pacific Northwest",
             "Similar to": "Unique",
             "Color": "Red shell, white meat",
@@ -57,7 +53,6 @@
         },
         {
             "Name": "King Crab Legs",
-            "Species": "Crab",
             "Origin": "North Pacific, Bering Sea, Gulf of Alaska, Russia",
             "Similar to": "Unique",
             "Color": "Red shell, white meat",
@@ -71,7 +66,6 @@
         },
         {
             "Name": "Snow Crab",
-            "Species": "Crab",
             "Origin": "Chile",
             "Similar to": "Unique",
             "Color": "Red shell, white meat",
@@ -84,7 +78,6 @@
         },
         {
             "Name": "Live Main Lobster",
-            "Species": "Lobster",
             "Origin": "Maine, Canada",
             "Similar to": "Australian Rock Lobster tail",
             "Color": "Red shell, white meat",
@@ -98,7 +91,6 @@
         },
         {
             "Name": "Lobster Tail",
-            "Species": "Lobster",
             "Origin": "Australia",
             "Similar to": "Live Maine",
             "Color": "White",
@@ -114,7 +106,6 @@
     "FinFish": [
         {
             "Name": "Catfish",
-            "Species": "Catfish",
             "Origin": "Mississippi",
             "Similar to": "Trout",
             "Color": "Off white",
@@ -126,7 +117,6 @@
         },
         {
             "Name": "Eastern Cod",
-            "Species": "Eastern Cod",
             "Origin": "Greenland",
             "Similar to": "True Cod",
             "Color": "White",
@@ -138,7 +128,6 @@
         },
         {
             "Name": "Alaskan Halibut",
-            "Species": "Halibut Alaskan",
             "Origin": "Alaska, Canada",
             "Similar to": "Cal Hal",
             "Color": "White to bright white",
@@ -150,7 +139,6 @@
         },
         {
             "Name": "California Halibut",
-            "Species": "Halibut California",
             "Origin": "California, Canada",
             "Similar to": "Cal Halibut",
             "Color": "White to bright white",
@@ -162,7 +150,6 @@
         },
         {
             "Name": "Hamachi",
-            "Species": "Hamachi",
             "Origin": "Farm-raised in Japan",
             "Similar to": "Unique",
             "Color": "Opaque cream",
@@ -174,7 +161,6 @@
         },
         {
             "Name": "John Dory",
-            "Species": "John Dory",
             "Origin": "New Zealand, Australia",
             "Similar to": "Unique",
             "Color": "White",
@@ -186,7 +172,6 @@
         },
         {
             "Name": "Lingcod",
-            "Species": "Lingcod",
             "Origin": "CA to Alaska",
             "Similar to": "Roughy, Halibut",
             "Color": "Off white to opaque",
@@ -198,7 +183,6 @@
         },
         {
             "Name": "Mahi Mahi",
-            "Species": "Mahi Mahi",
             "Origin": "Hawaii, Fiji, Tahiti",
             "Similar to": "Hebi, Ono, Pomfret",
             "Color": "Light tan",
@@ -210,7 +194,6 @@
         },
         {
             "Name": "Monkfish",
-            "Species": "Monkfish",
             "Origin": "Canada, New England",
             "Similar to": "Unique",
             "Color": "White",
@@ -222,7 +205,6 @@
         },
         {
             "Name": "Ono",
-            "Species": "Ono",
             "Origin": "Fiji, Florida, Hawaii",
             "Similar to": "Swordfish",
             "Color": "White to off white",
@@ -234,7 +216,6 @@
         },
         {
             "Name": "Opah",
-            "Species": "Opah",
             "Origin": "Southern California to the Pacific islands",
             "Similar to": "Unique",
             "Color": "Light pink to orange",
@@ -246,7 +227,6 @@
         },
         {
             "Name": "Pacific Rockfish",
-            "Species": "Rockfish Pacific",
             "Origin": "California to Alaska",
             "Similar to": "Unique",
             "Color": "Off white to light tan",
@@ -258,7 +238,6 @@
         },
         {
             "Name": "Sablefish",
-            "Species": "Sablefish",
             "Origin": "California to Alaska",
             "Similar to": "Chilean White, Seabass",
             "Color": "White",
@@ -270,7 +249,6 @@
         },
         {
             "Name": "Atlantic Salmon",
-            "Species": "Salmon Atlantic",
             "Origin": "Farmed in 12 nations around the world",
             "Similar to": "King salmon",
             "Color": "Pink to light red",
@@ -282,7 +260,6 @@
         },
         {
             "Name": "King Salmon",
-            "Species": "Salmon King Pacific",
             "Origin": "California to Alaska",
             "Similar to": "Atlantic Salmon",
             "Color": "Pink to red.More red than Atlantic salmon",
@@ -294,7 +271,6 @@
         },
         {
             "Name": "White Seabass",
-            "Species": "Seabass White",
             "Origin": "Mexico",
             "Similar to": "Snapper, Opakapaka",
             "Color": "White",
@@ -306,7 +282,6 @@
         },
         {
             "Name": "Sole",
-            "Species": "Sole",
             "Origin": "California",
             "Similar to": "Trout",
             "Color": "White",
@@ -317,7 +292,6 @@
         },
         {
             "Name": "Swordfish",
-            "Species": "Swordfish",
             "Origin": "California, Hawaii, Florida, Mexico, Australia",
             "Similar to": "Ono",
             "Color": "Off white, white",
@@ -329,7 +303,6 @@
         },
         {
             "Name": "Tilapia",
-            "Species": "Tilapia",
             "Origin": "Ecuador",
             "Similar to": "Roughy, Swai",
             "Color": "White",
@@ -341,7 +314,6 @@
         },
         {
             "Name": "Trout",
-            "Species": "Trout",
             "Origin": "Idaho",
             "Similar to": "Salmon, Sole",
             "Color": "Off white to light tan",
@@ -354,7 +326,6 @@
         },
         {
             "Name": "Yellowfin Tuna",
-            "Species": "Yellowfin Tuna",
             "Origin": "Hawaii, Florida, Fiji, Vietnam",
             "Similar to": "Sword, Shark, Tombo",
             "Color": "Red",
@@ -366,7 +337,6 @@
         },
         {
             "Name": "Yellowtail",
-            "Species": "Yellowtail",
             "Origin": "Southern California to Mexico",
             "Similar to": "Amberjack",
             "Color": "Pinkish red",
@@ -380,7 +350,6 @@
     "Shellfish": [
         {
             "Name": "Cockels",
-            "Species": "Clams Cockles",
             "Origin": "New Zealand",
             "Similar to": "Unique",
             "Color": "Cream",
@@ -393,7 +362,6 @@
         },
         {
             "Name": "Littleneck Clams",
-            "Species": "Clams Littleneck",
             "Origin": "Long Island Sound to New England",
             "Similar to": "Unique",
             "Color": "Creamy Tan",
@@ -406,7 +374,6 @@
         },
         {
             "Name": "Venus Clams",
-            "Species": "Clams Venus",
             "Origin": "Mexico",
             "Similar to": "Littleneck, Manilla",
             "Color": "Cream, light tan",
@@ -419,7 +386,6 @@
         },
         {
             "Name": "Black Mussels",
-            "Species": "Mussels Black",
             "Origin": "Atlantic Ocean",
             "Similar to": "Slightly pronounced",
             "Color": "Beige / Cream",
@@ -432,7 +398,6 @@
         },
         {
             "Name": "Green Mussels",
-            "Species": "Mussels Greenshell",
             "Origin": "New Zealand",
             "Similar to": "Unique",
             "Color": "Cream",
@@ -445,7 +410,6 @@
         },
         {
             "Name": "Scallops",
-            "Species": "Scallops",
             "Origin": "New England coast",
             "Similar to": "Unique",
             "Color": "Opaque white to cream",
@@ -460,7 +424,6 @@
     "Calamari": [
         {
             "Name": "Calamari",
-            "Species": "Squid",
             "Origin": "Worldwide",
             "Similar to": "Unique",
             "Color": "White",
@@ -473,7 +436,6 @@
         },
         {
             "Name": "Calamari Steak",
-            "Species": "Squid",
             "Origin": "Asia",
             "Similar to": "Unique",
             "Color": "White",
@@ -488,19 +450,16 @@
     "Smoked": [
         {
             "Name": "Smoked Albacore",
-            "Species": "Smoked",
             "Similar to": "Unique",
             "Color": "White",
             "Flavor": "Briney, Dry, Meaty",
             "Texture": "Firm, Dense",
             "Marketable Name": "Smoked Albacore",
             "Family": "Tuna",
-            "Raw": "Yes",
             "Fun facts": "Smoked items are brined with maple woods and brown sugar at our Farallon Fisheries location in San Fransisco"
         },
         {
             "Name": "Smoked Nova Lox",
-            "Species": "Smoked",
             "Origin": "Canada",
             "Similar to": "Unique",
             "Color": "Pink",
@@ -511,7 +470,6 @@
         },
         {
             "Name": "Smoked Salmon",
-            "Species": "Smoked",
             "Origin": "Canada",
             "Similar to": "Unique",
             "Color": "Pink",
@@ -522,7 +480,6 @@
         },
         {
             "Name": "Smoked Trout",
-            "Species": "Smoked",
             "Origin": "Idaho",
             "Similar to": "Unique",
             "Color": "Brown",
@@ -535,7 +492,6 @@
     "Oysters": [
         {
             "Name": "Chesapeake Oysters",
-            "Species": "Oysters Chesapeake",
             "Origin": "Lower James River",
             "Similar to": "Unique",
             "Color": "Creamy teste, less briney",
@@ -544,12 +500,10 @@
             "Marketable Name": "East Coast Oysters",
             "Family": "Ostreidae",
             "Allergy": "Molluscan shellfish allergies",
-            "Raw": "Yes",
             "Fun facts": "Chesapeake oysters come from a river called Lower James River at the Chesapeake bay."
         },
         {
             "Name": "Kumiai Oysters",
-            "Species": "Oysters Kumiai",
             "Origin": "Mexico",
             "Similar to": "Unique",
             "Color": "Mottled Green to cream",
@@ -557,12 +511,10 @@
             "Texture": "Firm plumped taste",
             "Marketable Name": "Pacific Oysters",
             "Family": "Crassostrea Gigas",
-            "Allergy": "Molluscan shellfish allergies",
-            "Raw": "Yes"
+            "Allergy": "Molluscan shellfish allergies"
         },
         {
             "Name": "Kumamoto Oysters",
-            "Species": "Oysters Kummamoto",
             "Origin": "California to British Columbia",
             "Similar to": "Unique",
             "Color": "Creamy tan",
@@ -571,12 +523,10 @@
             "Marketable Name": "Crassostrea Sikamea",
             "Family": "Crassostrea sikamea",
             "Allergy": "Molluscan shellfish allergies",
-            "Raw": "Yes",
             "Fun facts": "Originally native to Ariake Bay in the Kumamoto Prefecture on the southern Japanese island of Kyushu, this fabulous oyster was first grown in the U.S. in 1946.  The average full-term grow out period for Kumamoto’s is 5 years. The oyster itself reaches maturity at the age of three years old, which may explain its smaller half-shell size when served to the millions of “Kummie” oyster lovers all over the United States. If ever there was a raw oyster to recommend to a guest who was consuming an oyster for the first time, this is it.  With its smooth, medium–firm texture and sweet, almost fruity flavor, the Kumamoto is a treasure of an oyster."
         },
         {
             "Name": "Pacific Oysters",
-            "Species": "Oysters Pacific",
             "Origin": "West coast of U.S. Canada Mexico",
             "Similar to": "Unique",
             "Color": "Mottled Green to cream",
@@ -585,7 +535,6 @@
             "Marketable Name": "Pacific Oysters",
             "Family": "Crassostrea Gigas",
             "Allergy": "Molluscan shellfish allergies",
-            "Raw": "Yes",
             "Fun facts": "With the exception of Kumamoto and Olympia oysters, all of the other oysters grown on the Pacific coast of the U.S. and Canada are a “Miyagi” oyster.The flavor profile stated above covers the average description of this oyster because of its wide range of grow-out locations, which stretches from Oregon to Alaska."
         }
     ]
