@@ -374,11 +374,41 @@
     ],
     "Kid's Menu": [
         {
-            "Name": "Test",
-            "Description": "Test",
+            "Name": "Grilled Teriyaki Chicken",
+            "Description": "with fishwife rice or green beans with balsamic pearl onions & almonds",
             "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
-            "Allergy": "Shellfish"
+            "Vegan": "No - Chicken",
+            "Allergy": "N/A"
+        },
+        {
+            "Name": "Grilled Atlantic Cod",
+            "Description": "with fishwife rice or green beans with balsamic pearl onions & almonds",
+            "/FinFish/Eastern Cod": "3oz",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Fish & Chips",
+            "Description": "Beer battered with our house blonde from Stone Brewing",
+            "/FinFish/Eastern Cod": "3oz",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Chicken Strips",
+            "Description": "with french fries",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Chicken",
+            "Allergy": "N/A"
+        },
+        {
+            "Name": "Kids Linguine",
+            "Description": "with butter or marinara sauce",
+            "Gluten Free": "No - Pasta",
+            "Vegan": "N/A",
+            "Allergy": "N/A"
         }
     ]
     
