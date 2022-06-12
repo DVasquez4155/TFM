@@ -217,14 +217,32 @@
     ],
     "Fish & Chips": [
         {
-            "Name": "Test",
-            "Description": "Test",
-            "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
-            "Allergy": "Shellfish"
+            "Name": "Easter Cod",
+            "Description": "Beer battered with our house blonde from Stone Brewing",
+            "/FinFish/Eastern Cod": "(2) 3oz",
+            "/Crustacean/13x15 Prawns": "6 each",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Pacific Prawns",
+            "Description": "Beer battered with our house blonde from Stone Brewing",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Combo",
+            "Description": "Beer battered with our house blonde from Stone Brewing",
+            "/FinFish/Eastern Cod": "(1) 3oz",
+            "/Crustacean/13x15 Prawns": "3 each",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Fish, Shrimp",
+            "Allergy": "Fish, Shellfish"
         }
     ],
-    "Grilled Fish Catch": [
+    "Grilled Fresh Catch": [
         {
             "Name": "Test",
             "Description": "Test",
