@@ -287,30 +287,45 @@
     "Sides": [
         {
             "Name": "Pomegranate Glazed Cauliflower",
-            "Description": "Cauliflower Glazed with Pomegranate"
+            "Description": "Cauliflower Glazed with Pomegranate",
+            "Gluten Free": "Yes",
+            "Vegan": "Yes",
+            "Allergy": "N/A"
         },
         {
             "Name": "Au Gratin Potatoes",
-            "Description": "Cheesy Scalloped Potatoes"
+            "Description": "Cheesy Scalloped Potatoes",
+            "Gluten Free": "No - Flower",
+            "Vegan": "No - Dairy",
+            "Allergy": "Dairy"
         },
         {
             "Name": "Green Beans with Balsamic Pearl Onions",
             "Description": "Green Beans with Balsamic Pearl Onions & Roasted Almonds",
-            "Allergies": "Nuts"
+            "Gluten Free": "Yes",
+            "Vegan": "Yes",
+            "Allergy": "Nuts"
         },
         {
             "Name": "Coleslaw",
-            "Description": "Cabbage, Carrots, Coleslaw Dressing"
+            "Description": "Cabbage, Carrots, Coleslaw Dressing",
+            "Gluten Free": "Yes",
+            "Vegan": "N/A",
+            "Allergy": "N/A"
         },
         {
             "Name": "French Fries",
             "Description": "Seasoned Fries",
-            "Gluten Free": "Contains Flower, cannot be taken off"
+            "Gluten Free": "Contains Flower, cannot be taken off",
+            "Vegan": "Yes",
+            "Allergy": "N/A"
         },
         {
             "Name": "Fishwife Rice",
             "Description": "Vermicilli Pasta with Rice",
-            "Gluten Free": "Contains Flower and Pasta"
+            "Gluten Free": "Contains Flower and Pasta",
+            "Vegan": "Yes",
+            "Allergy": "N/A"
         }
     ],
     "Lobster & Crab": [
