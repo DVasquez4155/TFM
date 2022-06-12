@@ -286,11 +286,31 @@
     ],
     "Sides": [
         {
-            "Name": "Test",
-            "Description": "Test",
-            "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
-            "Allergy": "Shellfish"
+            "Name": "Pomegranate Glazed Cauliflower",
+            "Description": "Cauliflower Glazed with Pomegranate"
+        },
+        {
+            "Name": "Au Gratin Potatoes",
+            "Description": "Cheesy Scalloped Potatoes"
+        },
+        {
+            "Name": "Green Beans with Balsamic Pearl Onions",
+            "Description": "Green Beans with Balsamic Pearl Onions & Roasted Almonds",
+            "Allergies": "Nuts"
+        },
+        {
+            "Name": "Coleslaw",
+            "Description": "Cabbage, Carrots, Coleslaw Dressing"
+        },
+        {
+            "Name": "French Fries",
+            "Description": "Seasoned Fries",
+            "Gluten Free": "Contains Flower, cannot be taken off"
+        },
+        {
+            "Name": "Fishwife Rice",
+            "Description": "Vermicilli Pasta with Rice",
+            "Gluten Free": "Contains Flower and Pasta"
         }
     ],
     "Lobster & Crab": [
