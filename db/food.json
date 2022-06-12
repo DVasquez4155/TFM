@@ -244,11 +244,44 @@
     ],
     "Grilled Fresh Catch": [
         {
-            "Name": "Test",
-            "Description": "Test",
-            "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
-            "Allergy": "Shellfish"
+            "Name": "Farmed Canadian Salmon",
+            "/FinFish/Salmon": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Farmed Idaho Rainbow Trout",
+            "/FinFish/Trout": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild Alaskan Halibut",
+            "/FinFish/Alaskan Halibut": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild Atlantic Monkfish",
+            "/FinFish/Monkfish": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild California Halibut",
+            "/FinFish/California Halibut": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild Pacific Mahi Mahi",
+            "/FinFish/Mahi Mahi": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild Pacific Rockfish",
+            "/FinFish/Rockfish": "7oz",
+            "Description": "Accompanied by choice of two sides"
+        },
+        {
+            "Name": "Wild Pacific Swordfish",
+            "/FinFish/Swordfish": "7oz",
+            "Description": "Accompanied by choice of two sides"
         }
     ],
     "Sides": [
