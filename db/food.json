@@ -134,7 +134,7 @@
         },
         {
             "Name": "Baby Kale Salad",
-            "/Finfish/Salmon": "7oz",
+            "/FinFish/Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -147,7 +147,7 @@
         },
         {
             "Name": "Cobb Salad",
-            "/Finfish/Salmon": "7oz",
+            "/FinFish/Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -160,7 +160,7 @@
         },
         {
             "Name": "Caesar Salad",
-            "/Finfish/Salmon": "7oz",
+            "/FinFish/Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -174,11 +174,45 @@
     ],
     "Sandwiches": [
         {
-            "Name": "Test",
-            "Description": "Test",
-            "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
+            "Name": "Bacon Cheeseburger",
+            "Ingredients": "Burger 8oz, bacon, lettuce, tomato, onion, brioche bun",
+            "Gluten Free": "No - Bun",
+            "Vegan": "No - Ground Meat",
+            "Allergy": "Dairy - Cheese"
+        },
+        {
+            "Name": "Crab and Shrimp Roll",
+            "/Crustacean/Snow Crab": "Mixed in",
+            "/Crustacean/King Crab": "Mixed in",
+            "/Crustacean/31x40 Tiger Shrimp": "Mixed in",
+            "Ingredients": "Cucumber, lemon, parsley, sweet bun",
+            "Gluten Free": "No - Bun",
+            "Vegan": "No - Shellfish",
             "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Crispy Fish Tacos",
+            "/FinFish/Eastern Cod": "(2) 1oz",
+            "Ingredients": "Guajillo salsa, pico, queso fresco, lime slaw, cilantro, side pinto beans",
+            "Gluten Free": "No - Flour Tortillas",
+            "Vegan": "No - Fish, Cheese",
+            "Allergy": "Fish, Dairy"
+        },
+        {
+            "Name": "Jam'n Salmon Burger",
+            "/FinFish/Salmon": "Grounded",
+            "Ingredients": "Bacon jam, swiss, lettuce, tomato, brioche bun",
+            "Gluten Free": "No - Bun",
+            "Vegan": "No - Fish, Cheese",
+            "Allergy": "Fish, Dairy"
+        },
+        {
+            "Name": "Nashville Hot Halibut",
+            "/FinFish/California Halibut": "5oz",
+            "Ingredients": "Spicy chili oil, tarragon aioli, cucumber, lettuce, tomato",
+            "Gluten Free": "No - Bun",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
         }
     ],
     "Fish & Chips": [
