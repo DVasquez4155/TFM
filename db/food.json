@@ -11,7 +11,8 @@
         {
             "Name": "Cheezy Bread",
             "Description": "Cheezy Sauce on Sourdough Bread with an addition of crab meat",
-            "/Crustacean/Snow Crab": "2oz"
+            "/Crustacean/Snow Crab": "2oz",
+            "Allergy": "Shellfish"
         },
         {
             "Name": "New England Clam Chowder (White)",
@@ -31,7 +32,8 @@
             "Name": "Shucked Oysters (6)",
             "/Oysters/Kumiai Oysters": "Pacific Oysters",
             "/Oysters/Chesapeake Oysters": "Lower James River, VA",
-            "Oyster Combo": "3 of each oysters"
+            "Oyster Combo": "3 of each oysters",
+            "Allergy": "Shellfish"
         }
     ],
     "This is a test": [
