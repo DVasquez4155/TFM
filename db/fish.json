@@ -449,14 +449,14 @@
     ],
     "Smoked": [
         {
-            "Name": "Smoked Albacore",
+            "Name": "Smoked Salmon",
+            "Origin": "Canada",
             "Similar to": "Unique",
-            "Color": "White",
-            "Flavor": "Briney, Dry, Meaty",
-            "Texture": "Firm, Dense",
-            "Marketable Name": "Smoked Albacore",
-            "Family": "Tuna",
-            "Fun facts": "Smoked items are brined with maple woods and brown sugar at our Farallon Fisheries location in San Fransisco"
+            "Color": "Pink",
+            "Flavor": "Pronounced, Slightly Briner, Moist",
+            "Texture": "Large flakes, fairly moist.",
+            "Marketable Name": "Smoked Salmon",
+            "Family": "Salmon"
         },
         {
             "Name": "Smoked Nova Lox",
@@ -469,16 +469,6 @@
             "Family": "Salmon"
         },
         {
-            "Name": "Smoked Salmon",
-            "Origin": "Canada",
-            "Similar to": "Unique",
-            "Color": "Pink",
-            "Flavor": "Pronounced, Slightly Briner, Moist",
-            "Texture": "Large flakes, fairly moist.",
-            "Marketable Name": "Smoked Salmon",
-            "Family": "Salmon"
-        },
-        {
             "Name": "Smoked Trout",
             "Origin": "Idaho",
             "Similar to": "Unique",
@@ -487,6 +477,16 @@
             "Texture": "Firm",
             "Marketable Name": "Smoked Trout",
             "Family": "Salmon"
+        },
+        {
+            "Name": "Smoked Albacore",
+            "Similar to": "Unique",
+            "Color": "White",
+            "Flavor": "Briney, Dry, Meaty",
+            "Texture": "Firm, Dense",
+            "Marketable Name": "Smoked Albacore",
+            "Family": "Tuna",
+            "Fun facts": "Smoked items are brined with maple woods and brown sugar at our Farallon Fisheries location in San Fransisco"
         }
     ],
     "Oysters": [
