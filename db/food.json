@@ -43,10 +43,106 @@
             "Allergy": "Shellfish"
         },
         {
-            "Name": "Shucked Oysters (6)",
+            "Name": "Shucked Oysters (6)*",
             "/Oysters/Kumiai Oysters": "Pacific Oysters",
             "/Oysters/Chesapeake Oysters": "Lower James River, VA",
             "Oyster Combo": "3 of each oysters",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Appetizers": [
+        {
+            "Name": "Ahi Poke*",
+            "Ingredients": "Ginger, soy, green onion, sesame, chili, wonton chips",
+            "/FinFish/Yellowfin Tuna": "Cubed and Raw",
+            "Gluten Free": "No - Wonton Chips",
+            "Vegan": "No - Ahi Tuna",
+            "Allergy": "Fish, Sesame Seeds, Soy"
+        },
+        {
+            "Name": "Crab Spinach Artichoke Dip",
+            "/Crustacean/Snow Crab": "2oz",
+            "Ingredients": "Spiced Pita Chips",
+            "Gluten Free": "No - Pita Chips",
+            "Vegan": "No - Crab, Heavy Cream",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Crab Cakes (2)",
+            "/Crustacean/Snow Crab": "Mixed in",
+            "Ingredients": "Tartar sauce, spring mix",
+            "Gluten Free": "No - Panko Crumbs",
+            "Vegan": "No - Shellfish",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Prawn Cocktail (5)",
+            "/Crustacean/13x15 Prawns": "Poached with white wine, lemon & herbs",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Shellfish",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Rockfish Ceviche*",
+            "Ingredients": "Lime, coconut milk, red onion, tomato, serrano, avocado, tortilla chips",
+            "/FinFish/Rockfish": "Cured with lime juice",
+            "Gluten Free": "No - Tortilla Chips",
+            "Vegan": "No - Rockfish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Salt and Pepper Calamari",
+            "/Calamari/Calamari": "8oz",
+            "Sauces": "Sweet chili & Shot sauce",
+            "Gluten Free": "No - Tempura Flour",
+            "Vegan": "No - Calamari,  Egg Yolk",
+            "Allergy": "Calamari"
+        },
+        {
+            "Name": "Smoked Fish Sampler",
+            "/Smoked/Smoked Salmon": "2oz",
+            "/Smoked/Smoked Nova Lox": "1.5oz",
+            "/Smoked/Smoked Trout": "2oz",
+            "/Smoked/Smoked Albacore": "2oz",
+            "Gluten Free": "No - Bread",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish"
+        },
+        {
+            "Name": "Steamed Shellfish",
+            "/Shellfish/Venus Clams": "14oz",
+            "/Shellfish/Black Mussels": "14oz",
+            "Combo": "7oz of each shellfish",
+            "Ingredients": "Butter, fresh garlic, garlic bread & chili flakes (Mentions Chili Flakes)",
+            "Gluten Free": "No - Garlic Bread",
+            "Vegan": "No - Clams",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Test": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Test": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Test": [
+        {
+            "Name": "Test",
+            "Description": "Test",
             "Gluten Free": "Yes",
             "Vegan": "No - Oyster",
             "Allergy": "Shellfish"
