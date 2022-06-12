@@ -121,7 +121,58 @@
             "Allergy": "Shellfish"
         }
     ],
-    "Test": [
+    "Salad": [
+        {
+            "Name": "Louie Salad",
+            "/Crustacean/Bay Shrimp": "4oz",
+            "/Crustacean/Snow Crab": "4oz",
+            "Combo": "2oz of each protein",
+            "Ingredients": "Louie dressing, egg, cucumber, tomatoes, onion",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Crab Meat, Bay Shrimp",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Baby Kale Salad",
+            "/Finfish/Salmon": "7oz",
+            "/Crustacean/13x15 Prawns": "4 each",
+            "/Crustacean/Bay Shrimp": "4oz",
+            "/Crustacean/Snow Crab": "4oz",
+            "Chicken": "Grilled",
+            "Avocado": "1/2",
+            "Ingredients": "Roasted beets, red quinoa, apple, goat cheese, hazelnuts, citrus vinaigrette",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Goat Cheese",
+            "Allergy": "Yes - Hazelnuts"
+        },
+        {
+            "Name": "Cobb Salad",
+            "/Finfish/Salmon": "7oz",
+            "/Crustacean/13x15 Prawns": "4 each",
+            "/Crustacean/Bay Shrimp": "4oz",
+            "/Crustacean/Snow Crab": "4oz",
+            "Chicken": "Grilled",
+            "Avocado": "1/2",
+            "Ingredients": "Bacon, egg, avocado, blue cheese, white balsamic vinaigrette",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Egg, Blue Cheese",
+            "Allergy": "None"
+        },
+        {
+            "Name": "Caesar Salad",
+            "/Finfish/Salmon": "7oz",
+            "/Crustacean/13x15 Prawns": "4 each",
+            "/Crustacean/Bay Shrimp": "4oz",
+            "/Crustacean/Snow Crab": "4oz",
+            "Chicken": "Grilled",
+            "Avocado": "1/2",
+            "Ingredients": "romaine, grated romano cheese, garlic sourdough croutons",
+            "Gluten Free": "No - Croutons",
+            "Vegan": "No - Cheese",
+            "Allergy": "Dairy"
+        }
+    ],
+    "Sandwiches": [
         {
             "Name": "Test",
             "Description": "Test",
@@ -130,7 +181,7 @@
             "Allergy": "Shellfish"
         }
     ],
-    "Test": [
+    "Fish & Chips": [
         {
             "Name": "Test",
             "Description": "Test",
@@ -139,7 +190,52 @@
             "Allergy": "Shellfish"
         }
     ],
-    "Test": [
+    "Grilled Fish Catch": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Sides": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Lobster & Crab": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Specialties": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Dessert": [
+        {
+            "Name": "Test",
+            "Description": "Test",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        }
+    ],
+    "Kid's Menu": [
         {
             "Name": "Test",
             "Description": "Test",
