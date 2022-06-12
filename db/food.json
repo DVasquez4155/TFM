@@ -134,7 +134,7 @@
         },
         {
             "Name": "Baby Kale Salad",
-            "/FinFish/Salmon": "7oz",
+            "/FinFish/Atlantic Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -147,7 +147,7 @@
         },
         {
             "Name": "Cobb Salad",
-            "/FinFish/Salmon": "7oz",
+            "/FinFish/Atlantic Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -160,7 +160,7 @@
         },
         {
             "Name": "Caesar Salad",
-            "/FinFish/Salmon": "7oz",
+            "/FinFish/Atlantic Salmon": "7oz",
             "/Crustacean/13x15 Prawns": "4 each",
             "/Crustacean/Bay Shrimp": "4oz",
             "/Crustacean/Snow Crab": "4oz",
@@ -200,7 +200,7 @@
         },
         {
             "Name": "Jam'n Salmon Burger",
-            "/FinFish/Salmon": "Grounded",
+            "/FinFish/Atlantic Salmon": "Grounded",
             "Ingredients": "Bacon jam, swiss, lettuce, tomato, brioche bun",
             "Gluten Free": "No - Bun",
             "Vegan": "No - Fish, Cheese",
@@ -245,7 +245,7 @@
     "Grilled Fresh Catch": [
         {
             "Name": "Farmed Canadian Salmon",
-            "/FinFish/Salmon": "7oz",
+            "/FinFish/Atlantic Salmon": "7oz",
             "Description": "Accompanied by choice of two sides"
         },
         {
@@ -417,7 +417,7 @@
         {
             "Name": "Garlic Prawn Linguine",
             "Description": "Garlic butter, fresh linguine",
-            "/Crustacean/Scallops": "13x15 Prawns",
+            "/Crustacean/13x15 Prawns": "5 each",
             "Gluten Free": "No - Pasta",
             "Vegan": "Shellfish",
             "Allergy": "Shellfish"
