@@ -56,7 +56,7 @@
         {
             "Name": "Ahi Poke*",
             "Ingredients": "Ginger, soy, green onion, sesame, chili, wonton chips",
-            "/FinFish/Yellowfin Tuna": "Cubed and Raw",
+            "/FinFish/Yellowfin Tuna": "3.5 oz Cubed and Raw",
             "Gluten Free": "No - Wonton Chips",
             "Vegan": "No - Ahi Tuna",
             "Allergy": "Fish, Sesame Seeds, Soy"
@@ -356,20 +356,132 @@
     ],
     "Specialties": [
         {
-            "Name": "Test",
-            "Description": "Test",
+            "Name": "Ahi Poke Bowl*",
+            "Description": "Marinated yellowfin tuna, edamame, sushi rice",
+            "/FinFish/Yellowfin Tuna": "3.5 oz Cubed and Raw",
             "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
+            "Vegan": "No - Fish",
+            "Allergy": "Fish, Sesame Seeds, Soy"
+        },
+        {
+            "Name": "Angus Strip Steak (10oz)",
+            "Description": "Herb butter, crispy onions, two sides",
+            "Gluten Free": "No - Flour Onions",
+            "Vegan": "No - Beef",
+            "Allergy": "N/A"
+        },
+        {
+            "Name": "Crab Cioppino",
+            "Description": "House marinara, romano cheese, fresh linguine",
+            "/Shellfish/Venus Clams": "3 each",
+            "/Shellfish/Black Mussels": "3 each",
+            "/Crustacean/13x15 Prawns": "2 each",
+            "/Calamari/Calamari": "2oz",
+            "/Shellfish/Scallops": "1 each",
+            "/Crustacean/Dungeness Crab": "4oz",
+            "/FinFish/Eastern Cod": "4oz",
+            "Gluten Free": "No - Pasta",
+            "Vegan": "No - Fish, Shellfish",
+            "Allergy": "Fish, Shellfish"
+        },
+        {
+            "Name": "Lazy Man Crab Cioppino",
+            "Description": "House marinara, romano cheese, fresh linguine",
+            "/Shellfish/Venus Clams": "3 each",
+            "/Shellfish/Black Mussels": "3 each",
+            "/Crustacean/13x15 Prawns": "2 each",
+            "/Calamari/Calamari": "2oz",
+            "/Shellfish/Scallops": "1 each",
+            "/Crustacean/Snow Crab": "4oz",
+            "/FinFish/Eastern Cod": "4oz",
+            "Gluten Free": "No - Pasta",
+            "Vegan": "No - Fish, Shellfish",
+            "Allergy": "Fish, Shellfish"
+        },
+        {
+            "Name": "Fish and Shrimp Yellow Curry",
+            "Description": "Stir-fry vegetables, jasmine rice, coconut curry, cilantro",
+            "/FinFish/Eastern Cod": "4oz",
+            "/Crustacean/31x40 Tiger Shrimp": "4 each",
+            "Gluten Free": "?",
+            "Vegan": "No - Fish, Shellfish",
+            "Allergy": "Fish, Shellfish"
+        },
+        {
+            "Name": "Vegan Yellow Curry",
+            "Description": "Stir-fry vegetables, jasmine rice, coconut curry, cilantro",
+            "Gluten Free": "?",
+            "Vegan": "Yes",
+            "Allergy": "N/A"
+        },
+        {
+            "Name": "Garlic Prawn Linguine",
+            "Description": "Garlic butter, fresh linguine",
+            "/Crustacean/Scallops": "13x15 Prawns",
+            "Gluten Free": "No - Pasta",
+            "Vegan": "Shellfish",
             "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Miso Glazed Pacific Black Cod",
+            "Description": "Dashi, bok choy, turnip, mushroom, pea shoots",
+            "/FinFish/Sablefish": "7oz",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Fish, Dashi (Tuna)",
+            "Allergy": "Fish, Mushroom"
+        },
+        {
+            "Name": "Panjo Crusted Calamari Steak",
+            "/Calamari/Calamari Steak": "~7oz",
+            "Gluten Free": "No - Panko",
+            "Vegan": "No - Calamari",
+            "Allergy": "N/A"
+        },
+        {
+            "Name": "Oven Roasted Dungeness Crab",
+            "Description": "with butter, red pepper & shallot",
+            "/Crustacean/Dungeness Crab": "1.5-2.25lb",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Shellfish",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Seared East Coast Scallops",
+            "Description": "Fregola, cucumber, tomato chutney, pea tendril, lemon",
+            "/Shellfish/Scallops": "6 each",
+            "Gluten Free": "No - Pasta",
+            "Vegan": "No - Scallops",
+            "Allergy": "Shellfish, Pasta"
         }
     ],
     "Dessert": [
         {
-            "Name": "Test",
-            "Description": "Test",
+            "Name": "Creme Brulee",
+            "Description": "Vanilla bean custard, caramelized sugar crust",
             "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
-            "Allergy": "Shellfish"
+            "Vegan": "No - Dairy, Egg",
+            "Allergy": "Dairy, Egg"
+        },
+        {
+            "Name": "Hazelnut Chocolate Mousse",
+            "Description": "Callebaut dark chocolate, whip",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Dairy, Egg",
+            "Allergy": "Dairy, Egg, Nuts"
+        },
+        {
+            "Name": "Key Lime Pie",
+            "Description": "Graham cracker crust",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Egg, Dairy",
+            "Allergy": "Egg, Dairy"
+        },
+        {
+            "Name": "Snickerdoodle",
+            "Description": "Caramel, chocolate, vanilla ice cream",
+            "Gluten Free": "No - Flour",
+            "Vegan": "No - Egg",
+            "Allergy": "Egg"
         }
     ],
     "Kid's Menu": [
