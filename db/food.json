@@ -315,10 +315,27 @@
     ],
     "Lobster & Crab": [
         {
-            "Name": "Test",
-            "Description": "Test",
+            "Name": "Wild Dungeness Crab",
+            "/Crustacean/Dungeness Crab": "1.5-2.25lb",
+            "Description": "Steamed with drawn butter or chilled with cocktail sauce",
             "Gluten Free": "Yes",
-            "Vegan": "No - Oyster",
+            "Vegan": "No - Crab",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Bering Sea King Crab Legs",
+            "/Crustacean/King Crab": "1lb",
+            "Description": "Steamed with drawn butter",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Crab",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Wile Brazilian Lobster Tail",
+            "/Crustacean/Lobster Tail": "10-12oz",
+            "Description": "Steamed, then Grilled with drawn butter",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Lobster",
             "Allergy": "Shellfish"
         }
     ],
