@@ -1,0 +1,33 @@
+{
+    "Father's Day": [
+        {
+            "expires": "6/21/22"
+        },
+        {
+            "Name": "Oyster Rockefeller",
+            "Description": "Pacific Oysters topped with creamy spinach and romano cheese",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Shucked Oysters",
+            "/Oysters/Kumiai Oysters": "Pacific Oysters",
+            "/Oysters/Chesapeake Oysters": "Lower James River, VA",
+            "Oyster Combo": "3 of each oysters",
+            "Gluten Free": "Yes",
+            "Vegan": "No - Oyster",
+            "Allergy": "Shellfish"
+        },
+        {
+            "Name": "Guava Mojito",
+            "Blind Burro Rum": "1.5oz",
+            "Guava Puree": "1.0oz",
+            "Opa Basil Syrup": "1.0",
+            "Lime Juice": ".5oz",
+            "Maldon Solution": "2 Drops",
+            "Soda": "To top with",
+            "Garnish": "Basil"
+        },
+    ]
+}
