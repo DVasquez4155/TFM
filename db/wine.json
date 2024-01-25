@@ -1,152 +1,79 @@
 {
-    "Chardonnay": [{
-            "Name": "Cline Cellars Chardonnay",
-            "Origin": "Sonoma County, CA",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "Fish Market Chardonnay",
-            "Origin": "California",
-            "Glass Price": "9/GL",
-            "Bottle Price": "33/BTL"
-        },
-        {
-            "Name": "J. Lohr Riverstone Chardonnay",
-            "Origin": "Arroyo Seco, Monterey, CA",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "La Crema Chardonnay",
-            "Origin": "Monterey, CA",
-            "Glass Price": "11/GL",
-            "Bottle Price": "41/BTL"
-        },
-        {
-            "Name": "Sonoma-Cutrer Chardonnay",
-            "Origin": "Russian River Ranches, Sonoma County, CA",
-            "Glass Price": "14/GL",
-            "Bottle Price": "53/BTL"
-        },
-        {
-            "Name": "Substance 'CH' Chardonnay",
-            "Origin": "Washington",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        }
-    ],
-    "Sauvignon Blanc": [{
-            "Name": "Capture Sauvignon Blanc",
-            "Origin": "Sonoma County, CA",
-            "Glass Price": "12/GL",
-            "Bottle Price": "45/BTL"
-        },
-        {
-            "Name": "Oyster Bay Sauvignon Blanc",
-            "Origin": "Marlborough, New Zealand",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "J. Lohr Flume Crossing Sauvignon Blanc",
-            "Origin": "Arroyo Seco, Monterey, CA",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        }
-    ],
-    "Other Whites": [{
-            "Name": "Abadia Albarino",
-            "Origin": "Rias Baixas, Spain",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "Caposaldo Pinot Grigio",
-            "Origin": "Delle Venezie, Italy",
-            "Glass Price": "9/GL",
-            "Bottle Price": "33/BTL"
-        }
-    ],
-    "Bubbles": [{
-            "Name": "Cambria Julias Vineyard Rose Of Pinot Noir",
-            "Origin": "(still) Santa Maria Valley, CA",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "Domaine Carneros Brut By Taittinger",
-            "Origin": "California",
-            "Glass Price": "",
-            "Bottle Price": "57/BTL"
-        },
-        {
-            "Name": "Mionetto Prosecco",
-            "Origin": "Italy",
-            "Split Price": "9/187ML"
-        }
-    ],
-    "Cabernet Sauvignon": [{
-            "Name": "Fish Market Cabernet Sauvignon",
-            "Origin": "California",
-            "Glass Price": "9/GL",
-            "Bottle Price": "33/BTL"
-        },
-        {
-            "Name": "Simi Cabernet Sauvignon",
-            "Origin": "Sonoma County, CA",
-            "Glass Price": "13/GL",
-            "Bottle Price": "49/BTL"
-        },
-        {
-            "Name": "Substance CS Cabernet Sauvignon",
-            "Origin": "Washington",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        }
-    ],
-    "Pinot Noir": [{
-            "Name": "J. Lohr Falcons Perch Pinot Noir",
-            "Origin": "Monterey, CA",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "King Estate Inscription Pinot Noir",
-            "Origin": "Willamette Valley, Oregon",
-            "Glass Price": "45/BTL",
-            "Bottle Price": ""
-        },
-        {
-            "Name": "Meiomi Pinot Noir",
-            "Origin": "California",
-            "Glass Price": "13/GL",
-            "Bottle Price": "49/BTL"
-        }
-    ],
-    "Other Reds": [{
-            "Name": "St Francis Merlot",
-            "Origin": "Sonoma, CA",
-            "Glass Price": "12/GL",
-            "Bottle Price": "45/BTL"
-        },
-        {
-            "Name": "Troublemaker",
-            "Origin": "Central Coast, CA - Syrah, Grenache, Mourvedre, Zinfandel, Petite Sirah",
-            "Glass Price": "10/GL",
-            "Bottle Price": "37/BTL"
-        },
-        {
-            "Name": "Vino Rosso",
-            "Origin": "Colombia Valley, WA - Sangiovese, Cabernet Blend from House of Smith",
-            "Glass Price": "11/GL",
-            "Bottle Price": "41/BTL"
-        },
-        {
-            "Name": "Vive Malbec By Alta Vista",
-            "Origin": "Mendoza, Argentina",
-            "Glass Price": "9/GL",
-            "Bottle Price": "33/BTL"
-        }
+    "Pinot Noir": [
+  {
+    "Wine Name": "Flowers Sonoma Coast Pinot Noir",
+    "Vintage": 2022,
+    "Tannin Level": "Medium-bodied",
+    "Tannin Characteristics": "Low to Medium",
+    "Tannin Source": "Silky, delicate",
+    "Body": "[Not specified]",
+    "Body Characteristics": "Long, fresh finish"
+  }
+]
+,
+    "Cabernet Sauvignon": [
+  {
+    "Wine Name": "Daou Cabernet Sauvignon (2022)",
+    "Vintage": 2022,
+    "Tannin Level": "High",
+    "Tannin Characteristics": "Fine-grained, ripe",
+    "Tannin Source": "Grape skins, Oak",
+    "Body": "Rich and weighty",
+    "Body Characteristics": "Generous flavors of black raspberry, spicy currant, and blueberry compote with a structured finish."
+  },
+  {
+    "Wine Name": "Silver Oak Alexander Valley Cabernet Sauvignon (2019)",
+    "Vintage": 2019,
+    "Tannin Level": "Medium to High",
+    "Tannin Characteristics": "Notes of red cherry, raspberry, blackberry, iris, vanilla, and clove. Linger of black currant and warm baking spices.",
+    "Tannin Source": "Grape skins, Oak",
+    "Body": "Medium to full-bodied",
+    "Body Characteristics": "Black currants, ripe blackberry, and black cherry notes framed by velvety tannins with a long and complex finish."
+  },
+  {
+    "Wine Name": "Grgich Hills Estate Cabernet Sauvignon 2019",
+    "Vintage": 2019,
+    "Tannin Level": "Youthful tannins",
+    "Tannin Characteristics": "Fresh fruit, bright acidity, hints of forest floor, bay leaf, rosemary, and soft pimento",
+    "Tannin Source": "[Not specified]",
+    "Body": "[Not specified]",
+    "Body Characteristics": "Long and vibrant finish, flavors of black currant, ripe black cherries, and a hint of vanilla. Blend: 82% Cabernet Sauvignon, 11% Merlot, 5% Cabernet Franc, 2% Petit Verdot."
+  },
+  {
+    "Wine Name": "Caymus Napa Valley Cabernet Sauvignon",
+    "Vintage": 2021,
+    "Tannin Level": "Medium to High",
+    "Tannin Characteristics": "Ripe and integrated",
+    "Tannin Source": "Grapes from valley floor and hillsides",
+    "Body": "Full-bodied",
+    "Body Characteristics": "Dark color, rich fruit, layered aromas of cocoa, cassis, and ripe berries"
+  },
+  {
+    "Wine Name": "Justin Cabernet Sauvignon 2020",
+    "Vintage": 2020,
+    "Tannin Level": "Moderate",
+    "Tannin Characteristics": "Ripe and integrated",
+    "Tannin Source": "Grapes from Paso Robles, Central Coast, California",
+    "Body": "Nearly full-bodied",
+    "Body Characteristics": "Bright with a deep ruby core, aromas of ripe black cherry, red berries, blackcurrant, spice notes of vanilla and cinnamon, fresh sage, subtle dried rose petal, toasted oak. Flavors of red plum, ripe bing cherry, blackberry, savory dried herbs, baking spice, toasted oak. Balanced, fine tannins. Complex finish with sustained ripe fruit, spice, dried flower, and camphor elements. Remarkably balanced and complex."
+  },
+  {
+    "Wine Name": "Silver Oak Alexander Valley Cabernet Sauvignon 2019",
+    "Vintage": 2019,
+    "Tannin Level": "Not specified",
+    "Tannin Characteristics": "Notes of red cherry, raspberry, blackberry, iris, vanilla, and clove. Linger of black currant and warm baking spices.",
+    "Tannin Source": "[Not specified]",
+    "Body": "[Not specified]",
+    "Body Characteristics": "Ruby color, elegant wine with great acidity and lift on the mid-palate. Deep and fruity finish. Blend: 95.2% Cabernet Sauvignon, 2.5% Cabernet Franc, 1.9% Merlot, 0.4% Petit Verdot."
+  },
+  {
+    "Wine Name": "Grgich Hills Estate Cabernet Sauvignon 2019",
+    "Vintage": 2019,
+    "Tannin Level": "Youthful tannins",
+    "Tannin Characteristics": "Fresh fruit, bright acidity, hints of forest floor, bay leaf, rosemary, and soft pimento",
+    "Tannin Source": "[Not specified]",
+    "Body": "[Not specified]",
+    "Body Characteristics": "Long and vibrant finish, flavors of black currant, ripe black cherries, and a hint of vanilla. Blend: 82% Cabernet Sauvignon, 11% Merlot, 5% Cabernet Franc, 2% Petit Verdot."
+  }
     ]
 }
